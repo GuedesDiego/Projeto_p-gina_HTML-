@@ -20,11 +20,11 @@ body {
 }
 .menu {
     width: 15%;
-    background-color: aqua;
+    background-color: rgb(241, 245, 8);
     padding: 10px 20px 0px;
 }
 .header {
-    background-color: rgb(5, 108, 108);
+    background-color: rgb(253, 253, 253);
     min-height: 150px;
 }
 .content {
@@ -33,6 +33,6 @@ body {
     padding: 20px;
 }
 .footer {
-    background-color: rgb(99, 56, 240);
-    min-height: 150px;
+    background-color: rgb(222, 240, 56);
+    min-height: 15px; margin: 10px;
 }
